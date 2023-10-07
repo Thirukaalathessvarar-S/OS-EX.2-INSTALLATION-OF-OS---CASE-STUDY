@@ -1,6 +1,7 @@
 # OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY
 
 ## AIM:
+To Install Ubuntu in VMware Player on Windows
 
 ## STEPS:
 ### STEP 1:
