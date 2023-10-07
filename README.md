@@ -23,6 +23,7 @@ Enter full name, username and password and hit next image
 
 ### STEP 6:
 Select the maximum disk size and type. Unless planning on some really CPU intensive work inside the VM, select the “Split virtual disk into multiple files” option. Hit next when comfortable with image
+
 ![image](https://github.com/Thirukaalathessvarar-S/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/121166390/c179820b-48e4-45d4-a3db-a2e64727de17)
 
 ### STEP7:
